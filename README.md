@@ -22,4 +22,13 @@ _ _ _
 * 57th Street Galleries.
 ---
 [Nagesh aluri](AboutMe.md)
+* * *
+# Cities And Their Loactions to Visit
 
+In this section iam going to tell about 4 cities and their important locations to be visit.The time to be spent in these locations also inluded in the below table. 
+|    CITY NAME   |  LOACTION NAME  | TIME TO  SPEND |
+| :-------------  | :---------------: | --------------:|
+|  NEWYORK       |Statue of Liberty| 5 HOURS |
+| WASHINGTON,DC  |The White House  |  3 HOURS|
+| Las Vegas      | Bellagio Fountain| 4 hours |
+|Chicago         | Navy Pier       |  6 hours|
