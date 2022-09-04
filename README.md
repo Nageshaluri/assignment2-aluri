@@ -6,3 +6,19 @@ Web apps Assignment
 MOMA's collection offers an overview of modern and contemporary art, including works of 
 architecture and design, drawing, painting, **sculpture**, photography, prints, illustrated 
 books and **artist's books**, film, and electronic media.
+_ _ _
+ # ROUTE MAP TO MUSEUM & locations near Museum
+1. New York La Guardia is the nearest airport to museum.
+1. From the airport move towards 25th ave road.
+1. Take right and move towards 28th ave road.
+1. Take right and move towards 36 Street.
+1. Take left towards Lexington ave road and take third right towards E 57th ST.
+1. Take first left and move towards Park ave.
+1. Take fourth right towards W 53rd ST,On the right side you will find MOMA museum.
+*  Paley Park 3 E. 53rd St 
+* Austrian Cultural Forum, 11 E. 52nd St.
+* Paris Theatre, 4 W. 58th St.
+* Carnegie Hall, 881 7th Ave.
+* 57th Street Galleries.
+---
+
