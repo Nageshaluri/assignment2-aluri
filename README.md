@@ -32,3 +32,8 @@ In this section iam going to tell about 4 cities and their important locations t
 | WASHINGTON,DC  |The White House  |  3 HOURS|
 | Las Vegas      | Bellagio Fountain| 4 hours |
 |Chicago         | Navy Pier       |  6 hours|
+___
+# PITHY QUOTES
+>The journey of a thousand miles begins with one step.  *Lao Tzu*
+
+>Don’t be afraid to give up the good to go for the great._John D. Rockefeller_
