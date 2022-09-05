@@ -37,3 +37,15 @@ ___
 >The journey of a thousand miles begins with one step.  *Lao Tzu*
 
 >Don’t be afraid to give up the good to go for the great._John D. Rockefeller_
+___
+# CODE FENCING
+>Display the picture and the card Title only as default. When you have the mouse over the class card the text message "aaa" should appear and the card title and the picture will go up. You can say that it is the same height but the picture size will be less height.
+
+<https://stackoverflow.com/questions/73602786/display-content-when-you-have-the-mouse-for-hover>
+  
+```
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+```
+<https://css-tricks.com/snippets/css/system-font-stack>
